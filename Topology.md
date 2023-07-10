@@ -136,3 +136,6 @@ Configuring static NAT on the server interface of the ASA:
 
 Now the server in the dmz zone (192.168.1.2) can be accessed through the internet.
 
+
+
+
